@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Postdoctoral Researcher</a>, Department of Statistics, Korea University. <br> <a href="mailto:"glee.optimizt@gmail.com">glee.optimizt@gmail.com</a>
 
