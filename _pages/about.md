@@ -6,7 +6,7 @@ subtitle: <a href='#'>Postdoctoral Researcher</a>, Department of Statistics, Kor
 
 profile:
   align: right
-  image: prof_pic_glee.jpg
+  image: prof_pic_glee4.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
