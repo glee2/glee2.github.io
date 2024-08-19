@@ -6,7 +6,7 @@ subtitle: Postdoctoral Researcher, Department of Statistics at Korea University.
 
 profile:
   align: right
-  image: prof_pic_glee5.jpg
+  image: prof_pic_glee.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
