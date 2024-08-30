@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor<br> Department of Management Information Systems, Dongguk University <br> (+82) 02-2260-3841 <br> <a href="mailto:"glee.optimizt@gmail.com">glee.optimizt@gmail.com</a>
+subtitle: Assistant Professor<br> Department of Management Information Systems, Dongguk University <br> (+82) 02-2260-3841 <br> <a href="mailto:"gyuminlee@dgu.ac.kr">gyuminlee@dgu.ac.kr</a>
 
 profile:
   align: right
