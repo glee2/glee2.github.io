@@ -6,7 +6,7 @@ subtitle: Assistant Professor<br> Department of Management Information Systems, 
 
 profile:
   align: right
-  image: prof_pic_glee4.jpg
+  image: prof_pic_glee5.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p style="font-size:14px;">L429, Building of Business Administration</p>
